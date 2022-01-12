@@ -12,7 +12,6 @@ They are in the MS Word format so users can easily add in their own comments if 
 PicoCTF often has hints to solve the challenge within its title; e.g. the challenge titled “get aHEAD” requires you to use to the “HEAD” HTTP request.  Helpful resources can be found on PicoCTF’s site under their “Learn” tab.
 
 Information about challenges are in their titles: respectively the challenge title, point value, and category.
-
 >E.g. a file titled "Get Ahead 20pts web exploitation" has the following attributes:
 	*challenge title = Get Ahead
 	*points = 20

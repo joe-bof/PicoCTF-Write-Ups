@@ -21,5 +21,8 @@ Information about challenges are in their titles: respectively the challenge tit
 	*points = 20
 	*category = web exploitation
 
+I use Ubuntu 20.04 LTS, so all terminal references and screenshots are with this distro and version.  
+Additionally, running challenges on a virtual machine is always encouraged for security purposes while doing any CTF.  
+
 Last updated: 1/11/2022
 
